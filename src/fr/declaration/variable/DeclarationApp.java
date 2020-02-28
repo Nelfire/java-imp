@@ -9,7 +9,7 @@ public class DeclarationApp {
 		short uneVariableShort = 32767; 
 		int uneVariableInt = 2_054_254;
 		long uneVariableLong = 1_878_546_456;
-		float uneVariableFloat = 9_000_000_000F;
+		float uneVariableFloat = 9554.4544F;
 		double uneVariableDouble = 123_456_789D;
 		char uneVariableChar = 'A';
 		boolean uneVariableBoolean = true;
